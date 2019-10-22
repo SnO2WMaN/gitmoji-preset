@@ -1,0 +1,39 @@
+{
+  "name": "gitmoji-preset-sno2wman",
+  "version": "0.0.0",
+  "description": "A gitmoji preset by SnO2WMaN",
+  "author": "SnO2WMaN <sno2wman.official@gmail.com>(https://sno2wman.dev/)",
+  "homepage": "https://github.com/SnO2WMaN/gitmoji-preset-sno2wman#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnO2WMaN/gitmoji-preset-sno2wman"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "pretest": "npm run build",
+    "test": "ava -v",
+    "release": "np"
+  },
+  "bugs": {
+    "url": "https://github.com/SnO2WMaN/gitmoji-preset-sno2wman/issues"
+  },
+  "devDependencies": {
+    "@conten2/eslint-config": "^2.0.1",
+    "@conten2/prettier-config": "^1.0.0",
+    "ava": "^2.4.0",
+    "eslint": "^6.5.1",
+    "np": "^5.1.1",
+    "prettier": "^1.18.2",
+    "rollup": "^1.23.1",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-terser": "^5.1.2"
+  }
+}
