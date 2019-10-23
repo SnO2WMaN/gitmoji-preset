@@ -36,7 +36,6 @@
   },
   {
     "emoji": "🎨",
-
     "description": "Update UI/UX.",
     "name": "art"
   },
@@ -74,6 +73,11 @@
     "emoji": "⚓️",
     "description": "Salvage old features.",
     "name": "anchor"
+  },
+  {
+    "emoji": "💥",
+    "description": "make a breaking change.",
+    "name": "boom"
   },
   {
     "emoji": "🧪",
@@ -126,6 +130,11 @@
     "name": "open_book"
   },
   {
+    "emoji": "💬",
+    "description": "Update literal or text.",
+    "name": "speech_balloon"
+  },
+  {
     "emoji": "🚚",
     "description": "Transfer files.",
     "name": "truck"
@@ -139,6 +148,11 @@
     "emoji": "📷",
     "description": "Update snapshots.",
     "name": "camera"
+  },
+  {
+    "emoji": "🧹",
+    "description": "Format codes.",
+    "name": "bloom"
   },
   {
     "emoji": "🆗",
@@ -165,6 +179,11 @@
     "emoji": "🔖",
     "description": "Release.",
     "name": "bookmark"
+  },
+  {
+    "emoji": "🚀",
+    "description": "Deploy.",
+    "name": "rocket"
   },
   {
     "emoji": "🙈",
