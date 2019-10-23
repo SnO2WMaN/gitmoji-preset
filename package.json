@@ -1,16 +1,13 @@
 {
-  "name": "gitmoji-preset-sno2wman",
+  "name": "@sno2wman/gitmoji-preset",
   "version": "1.0.0",
   "description": "A gitmoji preset by SnO2WMaN",
   "author": "SnO2WMaN <sno2wman.official@gmail.com>(https://sno2wman.dev/)",
   "homepage": "https://github.com/SnO2WMaN/gitmoji-preset-sno2wman#readme",
   "license": "MIT",
-  "main": "lib/index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "main": "index.json",
   "files": [
-    "lib"
+    "index.json"
   ],
   "repository": {
     "type": "git",
@@ -21,6 +18,9 @@
     "pretest": "npm run build",
     "test": "ava -v",
     "release": "np"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "bugs": {
     "url": "https://github.com/SnO2WMaN/gitmoji-preset-sno2wman/issues"
