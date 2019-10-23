@@ -98,6 +98,10 @@ Work in progress.
 
 Salvage old features.
 
+### 💥 `:boom:`
+
+make a breaking change.
+
 ### 🧪 `:test_tube:`
 
 Add experimental features.
@@ -138,6 +142,10 @@ Translate.
 
 Write docs.
 
+### 💬 `:speech_balloon:`
+
+Update literal or text.
+
 ### 🚚 `:truck:`
 
 Transfer files.
@@ -149,6 +157,10 @@ Add assets.
 ### 📷 `:camera:`
 
 Update snapshots.
+
+### 🧹 `:bloom:`
+
+Format codes.
 
 ### 🆗 `:ok:`
 
@@ -169,6 +181,10 @@ Attach a license.
 ### 🔖 `:bookmark:`
 
 Release.
+
+### 🚀 `:rocket:`
+
+Deploy.
 
 ### 🙈 `:see_no_evil:`
 
