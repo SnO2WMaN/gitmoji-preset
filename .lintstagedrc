@@ -4,5 +4,6 @@
     "prettier --write",
     "git add"
   ],
-  "*[!package].json": ["prettier --write", "git add"]
+  "*[!package].json": ["prettier --write", "git add"],
+  "*.js": ["prettier --write", "git add"]
 }

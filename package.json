@@ -33,6 +33,7 @@
   },
   "scripts": {
     "test": "ava -v",
-    "release": "np"
+    "release": "np",
+    "list": "node forMarkdown.js"
   }
 }
