@@ -10,7 +10,7 @@
 <p>
 <div align="center">
 
-[![Github Action](https://github.com/SnO2WMaN/gitmoji-preset/workflows/Node%20CI/badge.svg)](https://circleci.com/gh/SnO2WMaN/customizable-gitmoji-cli)
+![Github Action](https://github.com/SnO2WMaN/gitmoji-preset/workflows/Node%20CI/badge.svg)
 
 </div>
 </p>
@@ -28,8 +28,13 @@
 
 ## Usage 🧰
 
+**When `emojiFormat` is set to `code`, some gitmoji may not be displayed properly on Github.**
+
+**Please set `emojiFormat` to `emoji`.**
+
 ```json
 {
+  "emojiFormat": "emoji",
   "presets": ["@sno2wman/gitmoji-preset"]
 }
 ```
