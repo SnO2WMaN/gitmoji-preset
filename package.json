@@ -14,8 +14,6 @@
     "url": "git+https://github.com/SnO2WMaN/gitmoji-preset-sno2wman"
   },
   "scripts": {
-    "build": "rollup -c",
-    "pretest": "npm run build",
     "test": "ava -v",
     "release": "np"
   },
@@ -31,9 +29,6 @@
     "ava": "^2.4.0",
     "eslint": "^6.5.1",
     "np": "^5.1.1",
-    "prettier": "^1.18.2",
-    "rollup": "^1.23.1",
-    "rollup-plugin-json": "^4.0.0",
-    "rollup-plugin-terser": "^5.1.2"
+    "prettier": "^1.18.2"
   }
 }
