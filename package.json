@@ -23,6 +23,7 @@
     "add": "^2.0.6",
     "ava": "^2.4.0",
     "comment-inserter": "^1.0.3",
+    "concurrently": "^5.0.0",
     "eslint": "^6.5.1",
     "husky": "^3.0.9",
     "lint-staged": "^9.4.2",
@@ -40,6 +41,7 @@
   "scripts": {
     "test": "ava -v",
     "release": "np",
-    "list": "node forMarkdown.js"
+    "version": "cuncurrently npm:version:*",
+    "version:list": "node list.js && git add README.md"
   }
 }
