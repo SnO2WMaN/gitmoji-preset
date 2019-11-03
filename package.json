@@ -44,7 +44,7 @@
   "scripts": {
     "test": "ava -v",
     "release": "np",
-    "version": "cuncurrently npm:version:*",
+    "version": "concurrently npm:version:*",
     "version:list": "node list.js && git add README.md"
   }
 }
