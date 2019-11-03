@@ -48,7 +48,7 @@ _Watch **[index.json](https://github.com/SnO2WMaN/gitmoji-preset-sno2wman/blob/m
 | emoji |             code              | description                            |
 | :---: | :---------------------------: | -------------------------------------- |
 |  ✨   |         `:sparkles:`          | Introduce new features.                |
-|  👍   |         `:thumbsup:`          | Improve features!.                     |
+|  👍   |         `:thumbsup:`          | Improve features.                      |
 |  ⚡️  |            `:zap:`            | Update about performance.              |
 |  🐛   |            `:bug:`            | Fix bugs.                              |
 |  🚑   |         `:ambulance:`         | Create a hotfix.                       |

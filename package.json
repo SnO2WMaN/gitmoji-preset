@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/SnO2WMaN/gitmoji-preset-sno2wman/issues"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "files": [
     "index.js"
